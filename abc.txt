@@ -1,12 +1,26 @@
-Python uses dynamic typing and a combination of reference counting and a cycle-detecting garbage collector for memory management.[76] It uses dynamic name resolution (late binding), which binds method and variable names during program execution.
-
-Hello Pythonfers some support for functional programming in the Lisp tradition. It has filter,mapandreduce functions; list comprehensions, dictionaries, sets, and generator expressions.[77] The standard library has two modules (itertools and functools) that implement functional tools borrowed from Haskell and Standard ML.[78]
-
-Its core philosophy is summarized in the Zen of Python (PEP 20), which includes aphorisms such as:[79]
-
-Beautiful is better than ugly.
-Explicit is better than implicit.
-Simple is better than complex.
-Complex is better than complicated.
-Readability counts.hellohello
-Hello Pythonhello
+9at6at Cat c9T mat bat rat hat
+abcdefghijklmnopqurtuvwxyz
+ABCDEFGHIJKLMNOPQRSTUVWXYZ\s
+321-555-4321
+1234567890
+Ha HaHa
+MetaCharacters (Need to be escaped):
+. ^ $ * + ? { } [ ] \ | ( )
+guptaabhishek.com
+abhishek-8765-gupta@yahoo.com
+abhi_gyupta@gamil.abc
+321-555-4321
+123.555.1234
+123*555*1234
+123.555.1234
+800-555-1234
+900-555-1234
+Mr. Schafer
+Mr Smith
+Ms Davis
+Mrs. Robinson
+Mr. T
+Mr_hello
+abhsihek.gupta@gmail.com
+abhishek-1234gupta@gmail.org
+abhishek@hotmail.net
